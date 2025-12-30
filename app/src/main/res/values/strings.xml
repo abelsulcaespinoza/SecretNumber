@@ -1,3 +1,16 @@
 <resources>
     <string name="app_name">SecretNumber</string>
+    <string name="bienvenido">Bienvenido</string>
+    <string name="empezar">Empezar</string>
+    <string name="elige_tu_desaf_o">¡Elige tu desafío!</string>
+    <string name="f_cil">Fácil</string>
+    <string name="intermedio">Intermedio</string>
+    <string name="dif_cil">Difícil</string>
+    <string name="normal">Normal</string>
+    <string name="muy_dif_cil">Muy difícil</string>
+    <string name="encuentra_el_n_mero_secreto">¡Encuentra el número secreto!</string>
+    <string name="nivel">Nivel:</string>
+    <string name="comprobar_n_mero">Comprobar número</string>
+    <string name="qu_n_mero_crees_que_es">¿Qué número crees que es?</string>
+    <string name="intentos">Intentos:</string>
 </resources>
